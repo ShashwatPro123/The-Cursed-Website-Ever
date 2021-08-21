@@ -106,9 +106,12 @@ a {
         transform: translateY(-8px) rotate(-45deg);
     }
     .nav-link{
-    font-size: 1.6rem;
-    font-weight: 400;
-    color: darkgrey;
+        font-size: 1.6rem;
+        font-weight: 400;
+        color: darkgrey;
+    }
+    .clicky {
+       font-size: 180px 
     }
 }
 div.gallery {
